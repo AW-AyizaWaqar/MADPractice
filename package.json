@@ -1,0 +1,24 @@
+{
+  "name": "madpractice",
+  "version": "1.0.0",
+  "description": "All the programs that i practice for my mobile application development are here",
+  "main": "pp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AW-AyizaWaqar/MADPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AW-AyizaWaqar/MADPractice/issues"
+  },
+  "homepage": "https://github.com/AW-AyizaWaqar/MADPractice#readme",
+  "dependencies": {
+    "expo": "^52.0.37",
+    "express": "^4.21.2"
+  }
+}
